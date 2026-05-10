@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/vite";
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&display=swap');
+
+body {
+  font-family: 'Nanum Myeongjo', serif;
+}
